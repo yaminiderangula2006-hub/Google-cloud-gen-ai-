@@ -415,13 +415,13 @@ This project can be used in:
 
 # 👨‍💻 Developed By
 
-Baddi chetan
-Derangula Yamini
-Bala Navya Sree
-Arveti Arun Kumar
-Anand Kumar
+-Baddi chetan
+-Derangula Yamini
+-Bala Navya Sree
+-Arveti Arun Kumar
+-Anand Kumar
 
-Annamacharya institute of technology and sciences,kadapa
+-Annamacharya institute of technology and sciences,kadapa
 ---
 
 # 📜 License
