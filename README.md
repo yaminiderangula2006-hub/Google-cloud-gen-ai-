@@ -415,15 +415,15 @@ This project can be used in:
 
 # 👨‍💻 Developed By
 
--Baddi chetan
--Derangula Yamini
--Bala Navya Sree
--Arveti Arun Kumar
--Anand Kumar
+- Baddi Chetan
+- Derangula Yamini
+- Bala Navya Sree
+- Arveti Arun Kumar
+- Anand Kumar
 
--Annamacharya institute of technology and sciences,kadapa
----
+**Institution**
 
+Annamacharya Institute of Technology and Sciences, Kadapa
 # 📜 License
 
 This project is developed for academic and educational purposes.
