@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Database
+*.db
+
+# Logs
+logs/
+
+# Data
+data/predictions.csv
+
+# Large ML Models
+models/bert_emotion_model_final/model.safetensors
+
+# Jupyter
+.ipynb_checkpoints/

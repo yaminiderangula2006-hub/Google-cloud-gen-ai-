@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+torch
+transformers
+google-generativeai
+pandas
+numpy
+plotly
+scikit-learn
+python-dotenv
+joblib
+nltk
+sqlite3
